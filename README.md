@@ -102,18 +102,11 @@ I build technology that serves a purpose. Two things I consider when i build are
 
 ---
 
-### `> ./snake.exe`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ys876/Ys876/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ys876/Ys876/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ys876/Ys876/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+### `> git log --graph`
 
 <div align="center">
 
-*"transforming vision into execution"*
+[![Yana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ys876&bg_color=05060c&color=b78cf7&line=b78cf7&point=e2e8f8&area=true&area_color=b78cf7&hide_border=true)](https://yanashah.dev)
 
 </div>
+
