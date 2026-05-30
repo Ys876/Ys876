@@ -21,7 +21,7 @@ Hi! I'm Yana, an **innovator** building smart solutions that solve real world pr
 
 ### `> cat current_mission.txt`
 
-I build technology that's actually useful — not just technically impressive. Accessibility is baked into how I think about products from day one, not bolted on at the end. Some of my best work has come from sitting across from people who see the world completely differently than I do — different disciplines, different backgrounds, different instincts. That friction is where the interesting ideas live. I'm not interested in echo chambers. I want the person who challenges my assumptions in the room.
+I build technology that serves a purpose. Two things I consider when i build are accessibility and impact. Some of my best work has come from sitting across from people who see the world completely differently than I do, with different disciplines, different backgrounds, different instincts. That friction is where the interesting ideas live.
 
 ---
 
