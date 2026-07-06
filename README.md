@@ -2,7 +2,7 @@
 
 # hey, I'm Yana 👋
 
-**CS + AI @ Purdue · SWE Intern @ QuickScrum · MLE Consultant @ Smartant**
+**CS + AI @ Purdue · SWE Intern @ QuickScrum · AI Consultant @ Smartant**
 
 
 [![Portfolio](https://img.shields.io/badge/yanashah.dev-b78cf7?style=for-the-badge&logo=safari&logoColor=white)](https://yanashah.dev)
@@ -15,27 +15,37 @@
 
 ### `> whoami`
 
-Hi! I'm Yana, an **innovator** building smart solutions that solve real world problems. I'm pursuing a double major in CS and AI and a minor in Business Economics at Purdue University. In my free time, I like to read murder mysteries, learn languages and tinker with open source. Currently, I'm a SWE intern at QuickScrum and MLE consultant for Smartant Technologies.
+Hi! I'm Yana. I build AI systems and the retrieval infrastructure behind them — currently shipping an AI Project Coach at QuickScrum and teaching agentic automation to corporate teams at Smartant Technologies. I'm pursuing a double major in CS and AI with a Business Economics minor at Purdue, and I'm looking for Summer 2027 SWE / AI engineering internships. In my free time, I read murder mysteries, learn languages, and tinker with open source.
 
 ---
 
 ### `> cat current_mission.txt`
 
-I build technology that serves a purpose. Two things I consider when i build are accessibility and impact. Some of my best work has come from sitting across from people who see the world completely differently than I do, with different disciplines, different backgrounds, different instincts. That friction is where the interesting ideas live.
+I build technology that serves a purpose. Two things I consider when I build are accessibility and impact. Some of my best work has come from sitting across from people who see the world completely differently than I do, with different disciplines, different backgrounds, different instincts. That friction is where the interesting ideas live.
 
 ---
 
 ### `> ls projects/`
 
+<!-- VERIFY exact repo names in the three GitHub links below (RepoMind / Fuelflow / git_patch) -->
+<!-- Shell and Malloc are Purdue course projects — intentionally no public repos (academic integrity), so they link to the portfolio instead -->
+
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**RepoMind**](https://yanashah.dev) | Agentic AI codebase intelligence — helps devs onboard to large repos fast | Python, FastAPI, LangChain, ChromaDB, Ollama |
-| [**FlowFuel**](https://yanashah.dev) 🏆 | AI nutrition app for Purdue women — reverse-engineered Purdue's private GraphQL dining API | React, Flask, GROQ, Node.js |
-| [**GitPatch**](https://yanashah.dev) | Patch management CLI with AI-generated summaries | Python, AWS S3/Lambda, OpenAI API |
+| [**RepoMind**](https://github.com/Ys876/RepoMind) | Hybrid code retrieval (AST chunking, BM25 + vector, RRF fusion, call graph); +9.6% MRR over naive RAG, fully local | Python, FastAPI, tree-sitter, ChromaDB, NetworkX, Ollama |
+| [**FlowFuel**](https://github.com/Ys876/Fuelflow) 🏆 | Cycle-synced nutrition app for Purdue women; reverse-engineered Purdue's private GraphQL dining API for live menus across 5 dining courts | React, Flask, GROQ, Node.js |
+| [**GitPatch**](https://github.com/Ys876/git_patch) | Serverless diff-analysis pipeline on AWS Lambda with AI-generated patch summaries | Python, AWS S3/Lambda, OpenAI API |
+| [**Blotto Solver**](https://github.com/Ys876/blotto-solver) | Solves Colonel Blotto for the mixed-strategy Nash equilibrium via linear programming — validated over 10,000 simulated games (0 losses, 68.3% win rate vs. a greedy baseline) | Python, SciPy (linprog/HiGHS), Monte Carlo |
+| [**Foundry-Fab**](https://github.com/Ys876/foundry-fab) | AI decision-support tool for semiconductor operations — agentic state machine with structured Claude tool-calling over a NetworkX ontology, deterministic conflict-checking, operator dashboard | Python, FastAPI, React, NetworkX, Claude API |
 | [**Shell**](https://yanashah.dev) | Unix shell from scratch — pipelines, job control, wildcards, tab completion | C++, flex, bison |
 | [**Malloc**](https://yanashah.dev) | Custom memory allocator — segregated free lists, constant-time coalescing | C |
 
 > 🏆 FlowFuel — 2nd Place Overall, InnovateHer 2025 (200+ participants)
+
+<!-- ACTION NEEDED (separate from this file): your GitHub account has a fork named "repomind-fork" of someone else's
+     similarly-named project. Sitting next to your original RepoMind, a skeptical reviewer may assume your flagship is
+     derived from it. Rename it to something unambiguous (e.g. "repomind-reference-comparison"), add a one-line README
+     explaining you studied it, or delete the fork. -->
 
 ---
 
@@ -99,14 +109,3 @@ I build technology that serves a purpose. Two things I consider when i build are
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### `> git log --graph`
-
-<div align="center">
-
-[![Yana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ys876&bg_color=05060c&color=b78cf7&line=b78cf7&point=e2e8f8&area=true&area_color=b78cf7&hide_border=true)](https://yanashah.dev)
-
-</div>
-
