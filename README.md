@@ -15,7 +15,7 @@
 
 ### `> whoami`
 
-Hi! I'm Yana. I build AI systems and the retrieval infrastructure behind them — currently shipping an AI Project Coach at QuickScrum and teaching agentic automation to corporate teams at Smartant Technologies. I'm pursuing a double major in CS and AI with a Business Economics minor at Purdue, and I'm looking for Summer 2027 SWE / AI engineering internships. In my free time, I read murder mysteries, learn languages, and tinker with open source.
+Hi! I'm Yana. I'm currently working as a SWE intern at Quickscrum, and teaching agentic automation to corporate teams at Smartant Technologies. I'm pursuing a double major in CS and AI with a Business Economics minor at Purdue, and I'm looking for Summer 2027 where I can contribute meaningfully. In my free time, I read murder mysteries, learn languages, and tinker with open source.
 
 ---
 
@@ -41,11 +41,6 @@ I build technology that serves a purpose. Two things I consider when I build are
 | [**Malloc**](https://yanashah.dev) | Custom memory allocator — segregated free lists, constant-time coalescing | C |
 
 > 🏆 FlowFuel — 2nd Place Overall, InnovateHer 2025 (200+ participants)
-
-<!-- ACTION NEEDED (separate from this file): your GitHub account has a fork named "repomind-fork" of someone else's
-     similarly-named project. Sitting next to your original RepoMind, a skeptical reviewer may assume your flagship is
-     derived from it. Rename it to something unambiguous (e.g. "repomind-reference-comparison"), add a one-line README
-     explaining you studied it, or delete the fork. -->
 
 ---
 
@@ -109,3 +104,8 @@ I build technology that serves a purpose. Two things I consider when I build are
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+### `> cat fun_fact`
+I speak eight languages!
+
