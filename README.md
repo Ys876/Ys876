@@ -32,15 +32,15 @@ I build technology that serves a purpose. Two things I consider when I build are
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**RepoMind**](https://github.com/Ys876/RepoMind) | Hybrid code retrieval (AST chunking, BM25 + vector, RRF fusion, call graph); +9.6% MRR over naive RAG, fully local | Python, FastAPI, tree-sitter, ChromaDB, NetworkX, Ollama |
-| [**FlowFuel**](https://github.com/Ys876/Fuelflow) 🏆 | Cycle-synced nutrition app for Purdue women; reverse-engineered Purdue's private GraphQL dining API for live menus across 5 dining courts | React, Flask, GROQ, Node.js |
-| [**GitPatch**](https://github.com/Ys876/git_patch) | Serverless diff-analysis pipeline on AWS Lambda with AI-generated patch summaries | Python, AWS S3/Lambda, OpenAI API |
-| [**Blotto Solver**](https://github.com/Ys876/blotto-solver) | Solves Colonel Blotto for the mixed-strategy Nash equilibrium via linear programming — validated over 10,000 simulated games (0 losses, 68.3% win rate vs. a greedy baseline) | Python, SciPy (linprog/HiGHS), Monte Carlo |
-| [**Foundry-Fab**](https://github.com/Ys876/foundry-fab) | AI decision-support tool for semiconductor operations — agentic state machine with structured Claude tool-calling over a NetworkX ontology, deterministic conflict-checking, operator dashboard | Python, FastAPI, React, NetworkX, Claude API |
-| [**Shell**](https://yanashah.dev) | Unix shell from scratch — pipelines, job control, wildcards, tab completion | C++, flex, bison |
-| [**Malloc**](https://yanashah.dev) | Custom memory allocator — segregated free lists, constant-time coalescing | C |
+| [**RepoMind**](https://github.com/Ys876/RepoMind) | Agentic Codebase Assistant heling new devs onboard large repos (AST chunking, BM25 + vector, RRF fusion, call graph); +9.6% MRR over naive RAG, fully local | Python, FastAPI, tree-sitter, ChromaDB, NetworkX, Ollama |
+| [**FlowFuel**](https://github.com/Ys876/Fuelflow) 🏆 | Cycle-synced AI powered nutrition app for Purdue women made on webscraped Purdue dining data across 5 dining courts | React, Flask, GROQ, Node.js |
+| [**GitPatch**](https://github.com/Ys876/git_patch) | Patch management system with AI-powered patch summaries | Python, AWS S3/Lambda, OpenAI API |
+| [**Blotto Solver**](https://github.com/Ys876/blotto-solver) | Colonel Blotto Solver for the mixed-strategy Nash equilibrium via linear programming| Python, SciPy (linprog/HiGHS), Monte Carlo |
+| [**Foundry-Fab**](https://github.com/Ys876/foundry-fab) | AI decision-support tool for semiconductor operations — agentic state machine, deterministic conflict-checking, operator dashboard | Python, FastAPI, React, NetworkX, Claude API |
+| [**Shell**](https://yanashah.dev) | Unix shell from scratch; pipelines, job control, wildcards, tab completion | C++, flex, bison |
+| [**Malloc**](https://yanashah.dev) | Custom memory allocator; segregated free lists, constant-time coalescing | C |
 
-> 🏆 FlowFuel — 2nd Place Overall, InnovateHer 2025 (200+ participants)
+> 🏆 FlowFuel: 2nd Place Overall, InnovateHer 2025 (200+ participants)
 
 ---
 
