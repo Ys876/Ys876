@@ -15,7 +15,7 @@
 
 ### `> whoami`
 
-Hi! I'm Yana. I'm currently working as a SWE intern at Quickscrum, and teaching agentic automation to corporate teams at Smartant Technologies. I'm pursuing a double major in CS and AI with a Business Economics minor at Purdue. In my free time, I read murder mysteries, learn languages, and tinker with open source.
+Hi! I'm Yana. I'm currently working as a Teaching Assistant for Systems programming at Purdue, and ML Research Assistant for the PurSecLab. This summer, I was a SWE intern at Quickscrum, and I taught agentic automation to corporate teams at Smartant Technologies. I'm pursuing a double major in CS and AI with a Business Economics minor at Purdue. In my free time, I read murder mysteries, learn languages, and tinker with open source.
 Check out more on my personal website, yanashah.dev!
 
 ---
